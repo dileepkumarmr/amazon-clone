@@ -1,4 +1,4 @@
-# amazon-clone
+# Amazon-clone
 
 ## Run Locally
 
